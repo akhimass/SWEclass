@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3846928e-d784-4b54-bd8f-7288ac545bbd" name="Changes" comment="feat: add Sandwich Maker project as a subfolder">
+      <change beforePath="$PROJECT_DIR$/FastAPI_CRUD_Assignment5/Assignment5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI_CRUD_Assignment5/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/api/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group-Webpage" beforeDir="false" afterPath="$PROJECT_DIR$/Group-Webpage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group-Webpage/img/lebron.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Group-Webpage/lebron.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroupProject/FinalProject/api/dependencies/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/GroupProject/FinalProject/api/dependencies/config.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;akhimass&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/da-dave/Dcoders-programs.git&quot;,
+    &quot;accountId&quot;: &quot;ef6e0f1b-2596-451c-8752-b17276f70f2c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2xmk97iLkGs4fLSXeKZnrRhbJ76" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in testcalculator.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/akhichappidi/PycharmProjects/SoftwareEngineeringProject/Group-Webpage&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Group-Webpage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/FastAPI_CRUD_Assignment5" />
+      <recent name="$PROJECT_DIR$/Group-Webpage/img" />
+      <recent name="$PROJECT_DIR$/GroupProject/api" />
+      <recent name="$PROJECT_DIR$/GroupProject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3846928e-d784-4b54-bd8f-7288ac545bbd" name="Changes" comment="" />
+      <created>1748550481979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748550481979</updated>
+      <workItem from="1748550483051" duration="794000" />
+      <workItem from="1749143545056" duration="1923000" />
+      <workItem from="1750009443422" duration="6197000" />
+      <workItem from="1750276428593" duration="4268000" />
+      <workItem from="1750366846019" duration="4689000" />
+      <workItem from="1750689965000" duration="4000" />
+      <workItem from="1750803194175" duration="8120000" />
+      <workItem from="1751465328744" duration="3467000" />
+      <workItem from="1752157941773" duration="5198000" />
+      <workItem from="1752944555249" duration="11441000" />
+      <workItem from="1752963635511" duration="15534000" />
+      <workItem from="1753147894787" duration="1520000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: add Sandwich Maker project as a subfolder">
+      <option name="closed" value="true" />
+      <created>1750806501578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750806501578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add Sandwich Maker project as a subfolder" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add Sandwich Maker project as a subfolder" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SoftwareEngineeringProject$.coverage" NAME=" Coverage Results" MODIFIED="1752162760793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
+  </component>
+</project>
