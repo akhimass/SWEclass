@@ -1,15 +1,20 @@
-from sqlalchemy import Column, ForeignKey, Integer, String, DECIMAL, DATETIME
+# models/orders.py
+from sqlalchemy import Column, Integer, String, Float, ForeignKey, DateTime
 from sqlalchemy.orm import relationship
-from datetime import datetime
 from ..dependencies.database import Base
-
+import datetime
 
 class Order(Base):
-    __tablename__ = "orders"
+    __tablename__ = 'orders'
 
-    id = Column(Integer, primary_key=True, index=True, autoincrement=True)
-    customer_name = Column(String(100))
-    order_date = Column(DATETIME, nullable=False, server_default=str(datetime.now()))
-    description = Column(String(300))
+    id = Column(Integer, primary_key=True, index=True)
+    order_date = Column(DateTime, default=datetime.datetime.utcnow)
+    tracking_number = Column(String, unique=True, nullable=False)
+    status = Column(String, nullable=False)
+    total_price = Column(Float, nullable=False)
+    customer_id = Column(Integer, ForeignKey('customers.id'), nullable=False)
 
-    order_details = relationship("OrderDetail", back_populates="order")
+    customer = relationship("Customer", back_populates="orders")
+    order_items = relationship("OrderItem", back_populates="order")
+    payment = relationship("Payment", uselist=False, back_populates="order")
+    promotion = relationship("Promotion", back_populates="orders")
